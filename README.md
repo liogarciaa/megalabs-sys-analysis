@@ -28,6 +28,10 @@ Podés revisar la documentación detallada por etapa en los siguientes documento
 
 ## Diagramas de Arquitectura y Procesos
 
+### *1. Diagrama de Contexto (DC)*
+
+![DC](./img/diagrama-contexto.png)
+
 ### *1. Diagrama de Flujo de Datos (DFD Nivel 1)*
 
 ![DFD Nivel 1](./img/dfd-nivel-1.png)
@@ -35,6 +39,11 @@ Podés revisar la documentación detallada por etapa en los siguientes documento
 ### *2. Modelo Entidad-Relación (DER)*
 
 ![Diagrama Entidad Relacion](./img/der.png)
+
+### *1. Diagrama Casos de Uso (UML)*
+
+![UML](./img/diagrama-casos-de-uso.png)
+
 
 ---
 
