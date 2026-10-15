@@ -1,5 +1,3 @@
-# Sin título
-
 # Análisis y Rediseño de Sistema de Información — Megalabs S.A.
 
 > **Proyecto de Análisis de Sistemas — UTN FRBA**
