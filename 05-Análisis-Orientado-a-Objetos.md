@@ -56,7 +56,7 @@ En esta etapa de Análisis orientado a objetos, a partir de la alternativa previ
 En esta quinta etapa de análisis orientado a objetos se comenzará con la identificación y descripción de roles de los actores involucrados. Luego se confeccionará el diagrama de casos de uso del sistema definiendo los procesos y sus asociaciones. A continuación, se detallarán las especificaciones de cada caso de uso clave y, finalmente, se elaborará el diagrama UML de estados.
 
 ### Diagrama de Gantt
-![Diagrama de Gantt](./img/diagrama-gantt-tpi5.png)
+![Diagrama de Gantt](./img/gantt-tpi5.png)
 
 ### Tabla de especificaciones
 
