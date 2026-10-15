@@ -20,7 +20,7 @@ Optimizar y automatizar el circuito de registro de visitadores médicos en la or
 
 Podés revisar la documentación detallada por etapa en los siguientes documentos:
 
-- [📄 01 - Estudio Preliminar](https://app.notion.com/p/docs/01-estudio-preliminar.md): Contexto organizacional, organigrama y alcance.
+- [📄 01 - Estudio Preliminar](01-Estudio-Preliminar.md): Contexto organizacional, organigrama y alcance.
 - [📄 02 - Relevamiento](https://app.notion.com/p/docs/02-relevamiento.md): Minutas de entrevista, procesos AS-IS y matriz de información.
 - [📄 03 - Estudio de Factibilidad TEO](https://app.notion.com/p/docs/03-estudio-de-factibilidad.md): Evaluación Técnica, Económica y Operativa de alternativas.
 - [📄 04 - Análisis Estructurado](https://app.notion.com/p/docs/04-analisis-estructurado.md): DFD Nivel 1 y 2, Diccionario de Datos y DER.
