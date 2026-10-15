@@ -21,10 +21,10 @@ Optimizar y automatizar el circuito de registro de visitadores médicos en la or
 Podés revisar la documentación detallada por etapa en los siguientes documentos:
 
 - [📄 01 - Estudio Preliminar](01-Estudio-Preliminar.md): Contexto organizacional, organigrama y alcance.
-- [📄 02 - Relevamiento](https://app.notion.com/p/docs/02-relevamiento.md): Minutas de entrevista, procesos AS-IS y matriz de información.
-- [📄 03 - Estudio de Factibilidad TEO](https://app.notion.com/p/docs/03-estudio-de-factibilidad.md): Evaluación Técnica, Económica y Operativa de alternativas.
-- [📄 04 - Análisis Estructurado](https://app.notion.com/p/docs/04-analisis-estructurado.md): DFD Nivel 1 y 2, Diccionario de Datos y DER.
-- [📄 05 - Análisis Orientado a Objetos](https://app.notion.com/p/docs/05-analisis-orientado-a-objetos.md): Casos de Uso, Actores y Diagramas UML.
+- [📄 02 - Relevamiento](02-Relevamiento): Minutas de entrevista, procesos AS-IS y matriz de información.
+- [📄 03 - Estudio de Factibilidad TEO](03-Estudio-de-Factibilidad): Evaluación Técnica, Económica y Operativa de alternativas.
+- [📄 04 - Análisis Estructurado](04-Análisis-Estructurado): DFD Nivel 1 y 2, Diccionario de Datos y DER.
+- [📄 05 - Análisis Orientado a Objetos](05-Análisis-Orientado-a-Objetos): Casos de Uso, Actores y Diagramas UML.
 
 ---
 
@@ -32,11 +32,11 @@ Podés revisar la documentación detallada por etapa en los siguientes documento
 
 ### *1. Diagrama de Flujo de Datos (DFD Nivel 1)*
 
-![DFD Nivel 1](https://app.notion.com./img/dfd-nivel-1.png)
+![DFD Nivel 1](./img/dfd-nivel-1.png)
 
 ### *2. Modelo Entidad-Relación (DER)*
 
-![Diagrama Entidad Relacion](https://app.notion.com./img/der.png)
+![Diagrama Entidad Relacion](./img/der.png)
 
 ---
 
