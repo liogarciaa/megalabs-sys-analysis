@@ -1,7 +1,7 @@
 # Universidad Tecnológica Nacional - Facultad Regional Buenos Aires
 ## Análisis de Sistemas - 2022
 
-![Logo UTN FRBA](./img/logo-utn.png)
+![Logo UTN FRBA](./img/logo-utn.jpg)
 
 * **Curso:** K2102
 * **Jefe de Cátedra:** Darío Piccirilli
