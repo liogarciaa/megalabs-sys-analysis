@@ -70,7 +70,7 @@ Una vez terminado este análisis detallado del proceso de las visitas, continuar
 Terminadas todas estas entrevistas, evaluaremos toda la información recolectada para terminar de definir cada proceso que juzguemos necesario relevar y, de ser necesario, determinar otras entrevistas a realizar o documentación a solicitar, para luego finalizar con la redacción del informe.
 
 ### Diagrama de Gantt
-![Diagrama de Gantt](./img/diagrama-gantt.png)
+![Diagrama de Gantt](./img/diagrama-gantt1.png)
 
 ### Tabla de especificaciones
 
