@@ -19,7 +19,7 @@ Optimizar y automatizar el circuito de registro de visitadores médicos en la or
 Podés revisar la documentación detallada por etapa en los siguientes documentos:
 
 - [01 - Estudio Preliminar](01-Estudio-Preliminar.md): Contexto organizacional, organigrama y alcance.
-- [02 - Relevamiento](02-Relevamiento): Minutas de entrevista, procesos AS-IS y matriz de información.
+- [02 - Relevamiento](02-Relevamiento.md): Minutas de entrevista, procesos AS-IS y matriz de información.
 - [03 - Estudio de Factibilidad TEO](03-Estudio-de-Factibilidad): Evaluación Técnica, Económica y Operativa de alternativas.
 - [04 - Análisis Estructurado](04-Análisis-Estructurado): DFD Nivel 1 y 2, Diccionario de Datos y DER.
 - [05 - Análisis Orientado a Objetos](05-Análisis-Orientado-a-Objetos): Casos de Uso, Actores y Diagramas UML.
